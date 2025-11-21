@@ -33,7 +33,7 @@ FSMCodingStyle=eFMSDropDownList_OneProcess
 FSMEncodingStyle=eFMSDropDownList_OneHot
 IsProjectConflictPreventionWarningsEnabled=0
 IsVirtualBomDocumentRemoved=0
-OutputPath=
+OutputPath=Project Outputs for VeMach_DongHoBaoThuc_NgocHien
 LogFolderPath=
 ManagedProjectGUID=
 IncludeDesignInRelease=0
@@ -65,6 +65,141 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=PWWJEZKS
 
+[Document2]
+DocumentPath=PCB1.PcbDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=OHUVANAA
+
+[Document3]
+DocumentPath=Output.OutJob
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[Document4]
+DocumentPath=Job1.OutJob
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[GeneratedDocument1]
+DocumentPath=Project Outputs for VeMach_DongHoBaoThuc_NgocHien\Design Rule Check - PCB1.html
+DItemRevisionGUID=
+
+[GeneratedDocument2]
+DocumentPath=Project Outputs for VeMach_DongHoBaoThuc_NgocHien\NC Drill\PCB1-RoundHoles-Plated.TXT
+DItemRevisionGUID=
+
+[GeneratedDocument3]
+DocumentPath=Project Outputs for VeMach_DongHoBaoThuc_NgocHien\NC Drill\PCB1-SlotHoles-Plated.TXT
+DItemRevisionGUID=
+
+[GeneratedDocument4]
+DocumentPath=Project Outputs for VeMach_DongHoBaoThuc_NgocHien\NC Drill\PCB1.DRR
+DItemRevisionGUID=
+
+[GeneratedDocument5]
+DocumentPath=Project Outputs for VeMach_DongHoBaoThuc_NgocHien\Gerber\PCB1.EXTREP
+DItemRevisionGUID=
+
+[GeneratedDocument6]
+DocumentPath=Project Outputs for VeMach_DongHoBaoThuc_NgocHien\Gerber\PCB1.GBL
+DItemRevisionGUID=
+
+[GeneratedDocument7]
+DocumentPath=Project Outputs for VeMach_DongHoBaoThuc_NgocHien\Gerber\PCB1.GBO
+DItemRevisionGUID=
+
+[GeneratedDocument8]
+DocumentPath=Project Outputs for VeMach_DongHoBaoThuc_NgocHien\Gerber\PCB1.GBP
+DItemRevisionGUID=
+
+[GeneratedDocument9]
+DocumentPath=Project Outputs for VeMach_DongHoBaoThuc_NgocHien\Gerber\PCB1.GBS
+DItemRevisionGUID=
+
+[GeneratedDocument10]
+DocumentPath=Project Outputs for VeMach_DongHoBaoThuc_NgocHien\Gerber\PCB1.GD1
+DItemRevisionGUID=
+
+[GeneratedDocument11]
+DocumentPath=Project Outputs for VeMach_DongHoBaoThuc_NgocHien\Gerber\PCB1.GG1
+DItemRevisionGUID=
+
+[GeneratedDocument12]
+DocumentPath=Project Outputs for VeMach_DongHoBaoThuc_NgocHien\Gerber\PCB1.GKO
+DItemRevisionGUID=
+
+[GeneratedDocument13]
+DocumentPath=Project Outputs for VeMach_DongHoBaoThuc_NgocHien\Gerber\PCB1.GPB
+DItemRevisionGUID=
+
+[GeneratedDocument14]
+DocumentPath=Project Outputs for VeMach_DongHoBaoThuc_NgocHien\Gerber\PCB1.GPT
+DItemRevisionGUID=
+
+[GeneratedDocument15]
+DocumentPath=Project Outputs for VeMach_DongHoBaoThuc_NgocHien\Gerber\PCB1.GTL
+DItemRevisionGUID=
+
+[GeneratedDocument16]
+DocumentPath=Project Outputs for VeMach_DongHoBaoThuc_NgocHien\Gerber\PCB1.GTO
+DItemRevisionGUID=
+
+[GeneratedDocument17]
+DocumentPath=Project Outputs for VeMach_DongHoBaoThuc_NgocHien\Gerber\PCB1.GTP
+DItemRevisionGUID=
+
+[GeneratedDocument18]
+DocumentPath=Project Outputs for VeMach_DongHoBaoThuc_NgocHien\Gerber\PCB1.GTS
+DItemRevisionGUID=
+
+[GeneratedDocument19]
+DocumentPath=Project Outputs for VeMach_DongHoBaoThuc_NgocHien\NC Drill\PCB1.LDP
+DItemRevisionGUID=
+
+[GeneratedDocument20]
+DocumentPath=Project Outputs for VeMach_DongHoBaoThuc_NgocHien\Gerber\PCB1.REP
+DItemRevisionGUID=
+
+[GeneratedDocument21]
+DocumentPath=Project Outputs for VeMach_DongHoBaoThuc_NgocHien\Gerber\PCB1.RUL
+DItemRevisionGUID=
+
 [Configuration1]
 Name=Sources
 ParameterCount=0
@@ -74,6 +209,9 @@ Variant=[No Variations]
 OutputJobsCount=0
 ContentTypeGUID=CB6F2064-E317-11DF-B822-12313F0024A2
 ConfigurationType=Source
+
+[Generic_EDE]
+OutputDir=Project Outputs for VeMach_DongHoBaoThuc_NgocHien
 
 [OutputGroup1]
 Name=Netlist Outputs
@@ -1008,6 +1146,126 @@ SelectedOnly=0
 UpdateVariants=1
 UpdateToLatestRevision=1
 PartTypes=0
+ComponentLibIdentifierKind0=Library Name And Type
+ComponentLibraryIdentifier0=LIBRARY.IntLib
+ComponentDesignItemID0=4013
+ComponentSymbolReference0=4013
+ComponentUpdate0=1
+ComponentIsDeviceSheet0=0
+ComponentLibIdentifierKind1=Library Name And Type
+ComponentLibraryIdentifier1=LIBRARY.IntLib
+ComponentDesignItemID1=7421
+ComponentSymbolReference1=7421
+ComponentUpdate1=1
+ComponentIsDeviceSheet1=0
+ComponentLibIdentifierKind2=Library Name And Type
+ComponentLibraryIdentifier2=LIBRARY.IntLib
+ComponentDesignItemID2=74247
+ComponentSymbolReference2=74247
+ComponentUpdate2=1
+ComponentIsDeviceSheet2=0
+ComponentLibIdentifierKind3=Library Name And Type
+ComponentLibraryIdentifier3=LIBRARY.IntLib
+ComponentDesignItemID3=7490
+ComponentSymbolReference3=7490
+ComponentUpdate3=1
+ComponentIsDeviceSheet3=0
+ComponentLibIdentifierKind4=Library Name And Type
+ComponentLibraryIdentifier4=LIBRARY.IntLib
+ComponentDesignItemID4=CN
+ComponentSymbolReference4=CN
+ComponentUpdate4=1
+ComponentIsDeviceSheet4=0
+ComponentLibIdentifierKind5=Library Name And Type
+ComponentLibraryIdentifier5=LIBRARY.IntLib
+ComponentDesignItemID5=CN-ALU-DIP
+ComponentSymbolReference5=CN-ALU-DIP
+ComponentUpdate5=1
+ComponentIsDeviceSheet5=0
+ComponentLibIdentifierKind6=Library Name And Type
+ComponentLibraryIdentifier6=LIBRARY.IntLib
+ComponentDesignItemID6=DCIN
+ComponentSymbolReference6=DCIN
+ComponentUpdate6=1
+ComponentIsDeviceSheet6=0
+ComponentLibIdentifierKind7=Library Name And Type
+ComponentLibraryIdentifier7=LIBRARY.IntLib
+ComponentDesignItemID7=Diode
+ComponentSymbolReference7=Diode
+ComponentUpdate7=1
+ComponentIsDeviceSheet7=0
+ComponentLibIdentifierKind8=Library Name And Type
+ComponentLibraryIdentifier8=LIBRARY.IntLib
+ComponentDesignItemID8=L-DIP-1
+ComponentSymbolReference8=L-DIP-1
+ComponentUpdate8=1
+ComponentIsDeviceSheet8=0
+ComponentLibIdentifierKind9=Library Name And Type
+ComponentLibraryIdentifier9=LIBRARY.IntLib
+ComponentDesignItemID9=LED7SEG-1
+ComponentSymbolReference9=LED7SEG-1
+ComponentUpdate9=1
+ComponentIsDeviceSheet9=0
+ComponentLibIdentifierKind10=Library Name And Type
+ComponentLibraryIdentifier10=LIBRARY.IntLib
+ComponentDesignItemID10=NE555
+ComponentSymbolReference10=NE555
+ComponentUpdate10=1
+ComponentIsDeviceSheet10=0
+ComponentLibIdentifierKind11=Library Name And Type
+ComponentLibraryIdentifier11=LIBRARY.IntLib
+ComponentDesignItemID11=Res
+ComponentSymbolReference11=Res
+ComponentUpdate11=1
+ComponentIsDeviceSheet11=0
+ComponentLibIdentifierKind12=Library Name And Type
+ComponentLibraryIdentifier12=LIBRARY.IntLib
+ComponentDesignItemID12=Speaker
+ComponentSymbolReference12=Speaker
+ComponentUpdate12=1
+ComponentIsDeviceSheet12=0
+ComponentLibIdentifierKind13=Library Name And Type
+ComponentLibraryIdentifier13=LIBRARY.IntLib
+ComponentDesignItemID13=SW4
+ComponentSymbolReference13=SW4
+ComponentUpdate13=1
+ComponentIsDeviceSheet13=0
+ComponentLibIdentifierKind14=Library Name And Type
+ComponentLibraryIdentifier14=LIBRARY.IntLib
+ComponentDesignItemID14=TIP41C
+ComponentSymbolReference14=TIP41C
+ComponentUpdate14=1
+ComponentIsDeviceSheet14=0
+ComponentLibIdentifierKind15=Library Name And Type
+ComponentLibraryIdentifier15=LIBRARY.IntLib
+ComponentDesignItemID15=VR-S
+ComponentSymbolReference15=VR-S
+ComponentUpdate15=1
+ComponentIsDeviceSheet15=0
+ComponentLibIdentifierKind16=Library Name And Type
+ComponentLibraryIdentifier16=TrongCz.IntLib
+ComponentDesignItemID16=4077
+ComponentSymbolReference16=4077
+ComponentUpdate16=1
+ComponentIsDeviceSheet16=0
+ComponentLibIdentifierKind17=Library Name And Type
+ComponentLibraryIdentifier17=TrongCz.IntLib
+ComponentDesignItemID17=4081
+ComponentSymbolReference17=4081
+ComponentUpdate17=1
+ComponentIsDeviceSheet17=0
+ComponentLibIdentifierKind18=Library Name And Type
+ComponentLibraryIdentifier18=TrongCz.IntLib
+ComponentDesignItemID18=7411
+ComponentSymbolReference18=7411
+ComponentUpdate18=1
+ComponentIsDeviceSheet18=0
+ComponentLibIdentifierKind19=Library Name And Type
+ComponentLibraryIdentifier19=TrongCz.IntLib
+ComponentDesignItemID19=LED 7 SEG 1
+ComponentSymbolReference19=LED 7 SEG 1
+ComponentUpdate19=1
+ComponentIsDeviceSheet19=0
 
 [Comparison Options]
 ComparisonOptions0=Kind=Net|MinPercent=75|MinMatch=3|ShowMatch=0|UseName=-1|InclAllRules=0
